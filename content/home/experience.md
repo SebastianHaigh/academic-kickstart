@@ -45,7 +45,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Pontypridd, UK"
   date_start = "2017-09-01"
-  date_end = "2018-04-31"
+  date_end = "2018-04-30"
   description = """Participating in tutorial delivery of a mathmatics course for 2nd year engineering undergraduates."""
 
 +++
